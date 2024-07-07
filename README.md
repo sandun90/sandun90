@@ -1,5 +1,5 @@
 Hi there! 
-page viewsGitHub followers GitHub followers
+
 👨‍💻 About Me:
 
 With nearly eight years of specialized experience in software quality assurance, both in automation and manual testing, I am confident in my ability to contribute effectively to your team and support the delivery of top-tier software solutions.
