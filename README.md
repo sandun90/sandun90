@@ -10,5 +10,3 @@ In addition to my employment with at Technopals, my previous positions at Wiley 
 My technical proficiencies extend to programming languages such as Java, Python, and JavaScript, as well as test automation frameworks like Selenium, Serenity Framework, and Jmeter. I am adept at using test management tools like Testrail, HP ALM, and Zephyr, and have experience with various development strategies and source control systems. My background in testing methodologies, test management, and defect management, coupled with my strong problem-solving skills, positions me as a valuable asset to your team.
 
 I hold a Bachelor of Information Technology from the University of Moratuwa and am an ISTQB Certified Tester Foundation Level (CTFL). These qualifications, along with my hands-on experience, have equipped me with the knowledge and expertise required to excel in the field of software quality engineering.
-![image](https://github.com/sandun90/sandun90./assets/11733177/cacf58b2-5196-4f27-a103-24b5dd671890)
-
